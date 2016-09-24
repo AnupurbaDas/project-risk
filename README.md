@@ -1,9 +1,9 @@
 # Predicting Project Risk
 A machine learning model to predict project risk.
 
-The objetive of this work is design a machine learning model to predict the probability of a project having issues worth being featured in the project management risk report. The project risk report elaboration requires a significant effort, as the analysts have to peruse many reports and related documents to determine if a project has a high risk. So, by training a discriminative model, we will be able to prioritize the projects that statistically present a high risk profile and reduce the cost of report elaboration. We also want to explore the most significant factors that contribute to project risk, like managers, scope, seasonality, etc.
+The objetive of this work is design a [machine learning model](/project-risk-model.ipynb) to predict the probability of a project having issues worth being featured in the project management risk report. The project risk report elaboration requires a significant effort, as the analysts have to peruse many reports and related documents to determine if a project has a high risk. So, by training a discriminative model, we will be able to prioritize the projects that statistically present a high risk profile and reduce the cost of report elaboration. We also want to explore the most significant factors that contribute to project risk, like managers, scope, seasonality, etc.
 
-<img src="/model.jpg?raw=true" width="500">
+<img src="/model.png?raw=true" width="700">
 
 ## The data
 
